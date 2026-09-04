@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  /* Add your custom design tokens here */
+  --font-sans: var(--font-switzer), ui-sans-serif, system-ui, sans-serif;
+
+  --color-primary: #093fb4;
+  --color-background: #fffcfb;
+  --color-secondary: #eeeeee;
+}
